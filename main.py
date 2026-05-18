@@ -11,9 +11,6 @@ os.makedirs("artifacts/week1/audio", exist_ok=True)
 audio_files = [
     "clips/clip1.wav",
     "clips/clip2.wav",
-    "clips/clip3.wav",
-    "clips/clip4.wav",
-    "clips/clip5.wav"
 ]
 
 # Process all clips
