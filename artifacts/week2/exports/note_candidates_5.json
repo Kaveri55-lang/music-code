@@ -2,2587 +2,2587 @@
   {
     "start_s":0.0,
     "end_s":0.1,
-    "midi_or_hz":221.27,
-    "confidence":0.48
+    "midi_or_hz":440.0,
+    "confidence":0.83
   },
   {
     "start_s":0.023,
     "end_s":0.123,
-    "midi_or_hz":221.27,
-    "confidence":0.62
+    "midi_or_hz":440.0,
+    "confidence":0.89
   },
   {
     "start_s":0.046,
     "end_s":0.146,
-    "midi_or_hz":221.27,
-    "confidence":0.69
+    "midi_or_hz":440.0,
+    "confidence":0.89
   },
   {
     "start_s":0.07,
     "end_s":0.17,
-    "midi_or_hz":220.0,
-    "confidence":0.76
+    "midi_or_hz":440.0,
+    "confidence":0.95
   },
   {
     "start_s":0.093,
     "end_s":0.193,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.116,
     "end_s":0.216,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.139,
     "end_s":0.239,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.163,
     "end_s":0.263,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.186,
     "end_s":0.286,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.209,
     "end_s":0.309,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.232,
     "end_s":0.332,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.255,
     "end_s":0.355,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.279,
     "end_s":0.379,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.302,
     "end_s":0.402,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.325,
     "end_s":0.425,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.348,
     "end_s":0.448,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.372,
     "end_s":0.472,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.395,
     "end_s":0.495,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.418,
     "end_s":0.518,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.441,
     "end_s":0.541,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.464,
     "end_s":0.564,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.488,
     "end_s":0.588,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.511,
     "end_s":0.611,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.534,
     "end_s":0.634,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.557,
     "end_s":0.657,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.58,
     "end_s":0.68,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.604,
     "end_s":0.704,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.627,
     "end_s":0.727,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.65,
     "end_s":0.75,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.673,
     "end_s":0.773,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.697,
     "end_s":0.797,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.72,
     "end_s":0.82,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.743,
     "end_s":0.843,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.766,
     "end_s":0.866,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.789,
     "end_s":0.889,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.813,
     "end_s":0.913,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.836,
     "end_s":0.936,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.859,
     "end_s":0.959,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.882,
     "end_s":0.982,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.906,
     "end_s":1.006,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.929,
     "end_s":1.029,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.952,
     "end_s":1.052,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.975,
     "end_s":1.075,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":0.998,
     "end_s":1.098,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.022,
     "end_s":1.122,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.045,
     "end_s":1.145,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.068,
     "end_s":1.168,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.091,
     "end_s":1.191,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.115,
     "end_s":1.215,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.138,
     "end_s":1.238,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.161,
     "end_s":1.261,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.184,
     "end_s":1.284,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.207,
     "end_s":1.307,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.231,
     "end_s":1.331,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.254,
     "end_s":1.354,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.277,
     "end_s":1.377,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.3,
     "end_s":1.4,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.324,
     "end_s":1.424,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.347,
     "end_s":1.447,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.37,
     "end_s":1.47,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.393,
     "end_s":1.493,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.416,
     "end_s":1.516,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.44,
     "end_s":1.54,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.463,
     "end_s":1.563,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.486,
     "end_s":1.586,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.509,
     "end_s":1.609,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.533,
     "end_s":1.633,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.556,
     "end_s":1.656,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.579,
     "end_s":1.679,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.602,
     "end_s":1.702,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.625,
     "end_s":1.725,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.649,
     "end_s":1.749,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.672,
     "end_s":1.772,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.695,
     "end_s":1.795,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.718,
     "end_s":1.818,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.741,
     "end_s":1.841,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.765,
     "end_s":1.865,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.788,
     "end_s":1.888,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.811,
     "end_s":1.911,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.834,
     "end_s":1.934,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.858,
     "end_s":1.958,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.881,
     "end_s":1.981,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.904,
     "end_s":2.004,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.927,
     "end_s":2.027,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.95,
     "end_s":2.05,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.974,
     "end_s":2.074,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":1.997,
     "end_s":2.097,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.02,
     "end_s":2.12,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.043,
     "end_s":2.143,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.067,
     "end_s":2.167,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.09,
     "end_s":2.19,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.113,
     "end_s":2.213,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.136,
     "end_s":2.236,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.159,
     "end_s":2.259,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.183,
     "end_s":2.283,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.206,
     "end_s":2.306,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.229,
     "end_s":2.329,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.252,
     "end_s":2.352,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.276,
     "end_s":2.376,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.299,
     "end_s":2.399,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.322,
     "end_s":2.422,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.345,
     "end_s":2.445,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.368,
     "end_s":2.468,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.392,
     "end_s":2.492,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.415,
     "end_s":2.515,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.438,
     "end_s":2.538,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.461,
     "end_s":2.561,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.485,
     "end_s":2.585,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.508,
     "end_s":2.608,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.531,
     "end_s":2.631,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.554,
     "end_s":2.654,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.577,
     "end_s":2.677,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.601,
     "end_s":2.701,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.624,
     "end_s":2.724,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.647,
     "end_s":2.747,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.67,
     "end_s":2.77,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.694,
     "end_s":2.794,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.717,
     "end_s":2.817,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.74,
     "end_s":2.84,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.763,
     "end_s":2.863,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.786,
     "end_s":2.886,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.81,
     "end_s":2.91,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.833,
     "end_s":2.933,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.856,
     "end_s":2.956,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.879,
     "end_s":2.979,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.902,
     "end_s":3.002,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.926,
     "end_s":3.026,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.949,
     "end_s":3.049,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.972,
     "end_s":3.072,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":2.995,
     "end_s":3.095,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.019,
     "end_s":3.119,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.042,
     "end_s":3.142,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.065,
     "end_s":3.165,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.088,
     "end_s":3.188,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.111,
     "end_s":3.211,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.135,
     "end_s":3.235,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.158,
     "end_s":3.258,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.181,
     "end_s":3.281,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.204,
     "end_s":3.304,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.228,
     "end_s":3.328,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.251,
     "end_s":3.351,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.274,
     "end_s":3.374,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.297,
     "end_s":3.397,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.32,
     "end_s":3.42,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.344,
     "end_s":3.444,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.367,
     "end_s":3.467,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.39,
     "end_s":3.49,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.413,
     "end_s":3.513,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.437,
     "end_s":3.537,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.46,
     "end_s":3.56,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.483,
     "end_s":3.583,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.506,
     "end_s":3.606,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.529,
     "end_s":3.629,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.553,
     "end_s":3.653,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.576,
     "end_s":3.676,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.599,
     "end_s":3.699,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.622,
     "end_s":3.722,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.646,
     "end_s":3.746,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.669,
     "end_s":3.769,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.692,
     "end_s":3.792,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.715,
     "end_s":3.815,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.738,
     "end_s":3.838,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.762,
     "end_s":3.862,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.785,
     "end_s":3.885,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.808,
     "end_s":3.908,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.831,
     "end_s":3.931,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.855,
     "end_s":3.955,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.878,
     "end_s":3.978,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.901,
     "end_s":4.001,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.924,
     "end_s":4.024,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.947,
     "end_s":4.047,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.971,
     "end_s":4.071,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":3.994,
     "end_s":4.094,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.017,
     "end_s":4.117,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.04,
     "end_s":4.14,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.063,
     "end_s":4.163,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.087,
     "end_s":4.187,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.11,
     "end_s":4.21,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.133,
     "end_s":4.233,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.156,
     "end_s":4.256,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.18,
     "end_s":4.28,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.203,
     "end_s":4.303,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.226,
     "end_s":4.326,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.249,
     "end_s":4.349,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.272,
     "end_s":4.372,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.296,
     "end_s":4.396,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.319,
     "end_s":4.419,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.342,
     "end_s":4.442,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.365,
     "end_s":4.465,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.389,
     "end_s":4.489,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.412,
     "end_s":4.512,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.435,
     "end_s":4.535,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.458,
     "end_s":4.558,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.481,
     "end_s":4.581,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.505,
     "end_s":4.605,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.528,
     "end_s":4.628,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.551,
     "end_s":4.651,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.574,
     "end_s":4.674,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.598,
     "end_s":4.698,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.621,
     "end_s":4.721,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.644,
     "end_s":4.744,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.667,
     "end_s":4.767,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.69,
     "end_s":4.79,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.714,
     "end_s":4.814,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.737,
     "end_s":4.837,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.76,
     "end_s":4.86,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.783,
     "end_s":4.883,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.807,
     "end_s":4.907,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.83,
     "end_s":4.93,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.853,
     "end_s":4.953,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.876,
     "end_s":4.976,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.899,
     "end_s":4.999,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.923,
     "end_s":5.023,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.946,
     "end_s":5.046,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.969,
     "end_s":5.069,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":4.992,
     "end_s":5.092,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.016,
     "end_s":5.116,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.039,
     "end_s":5.139,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.062,
     "end_s":5.162,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.085,
     "end_s":5.185,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.108,
     "end_s":5.208,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.132,
     "end_s":5.232,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.155,
     "end_s":5.255,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.178,
     "end_s":5.278,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.201,
     "end_s":5.301,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.224,
     "end_s":5.324,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.248,
     "end_s":5.348,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.271,
     "end_s":5.371,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.294,
     "end_s":5.394,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.317,
     "end_s":5.417,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.341,
     "end_s":5.441,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.364,
     "end_s":5.464,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.387,
     "end_s":5.487,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.41,
     "end_s":5.51,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.433,
     "end_s":5.533,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.457,
     "end_s":5.557,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.48,
     "end_s":5.58,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.503,
     "end_s":5.603,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.526,
     "end_s":5.626,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.55,
     "end_s":5.65,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.573,
     "end_s":5.673,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.596,
     "end_s":5.696,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.619,
     "end_s":5.719,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.642,
     "end_s":5.742,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.666,
     "end_s":5.766,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.689,
     "end_s":5.789,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.712,
     "end_s":5.812,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.735,
     "end_s":5.835,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.759,
     "end_s":5.859,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.782,
     "end_s":5.882,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.805,
     "end_s":5.905,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.828,
     "end_s":5.928,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.851,
     "end_s":5.951,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.875,
     "end_s":5.975,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.898,
     "end_s":5.998,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.921,
     "end_s":6.021,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.944,
     "end_s":6.044,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.968,
     "end_s":6.068,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":5.991,
     "end_s":6.091,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.014,
     "end_s":6.114,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.037,
     "end_s":6.137,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.06,
     "end_s":6.16,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.084,
     "end_s":6.184,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.107,
     "end_s":6.207,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.13,
     "end_s":6.23,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.153,
     "end_s":6.253,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.177,
     "end_s":6.277,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.2,
     "end_s":6.3,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.223,
     "end_s":6.323,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.246,
     "end_s":6.346,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.269,
     "end_s":6.369,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.293,
     "end_s":6.393,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.316,
     "end_s":6.416,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.339,
     "end_s":6.439,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.362,
     "end_s":6.462,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.385,
     "end_s":6.485,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.409,
     "end_s":6.509,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.432,
     "end_s":6.532,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.455,
     "end_s":6.555,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.478,
     "end_s":6.578,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.502,
     "end_s":6.602,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.525,
     "end_s":6.625,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.548,
     "end_s":6.648,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.571,
     "end_s":6.671,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.594,
     "end_s":6.694,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.618,
     "end_s":6.718,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.641,
     "end_s":6.741,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.664,
     "end_s":6.764,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.687,
     "end_s":6.787,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.711,
     "end_s":6.811,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.734,
     "end_s":6.834,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.757,
     "end_s":6.857,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.78,
     "end_s":6.88,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.803,
     "end_s":6.903,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.827,
     "end_s":6.927,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.85,
     "end_s":6.95,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.873,
     "end_s":6.973,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.896,
     "end_s":6.996,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.92,
     "end_s":7.02,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.943,
     "end_s":7.043,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.966,
     "end_s":7.066,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":6.989,
     "end_s":7.089,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.012,
     "end_s":7.112,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.036,
     "end_s":7.136,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.059,
     "end_s":7.159,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.082,
     "end_s":7.182,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.105,
     "end_s":7.205,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.129,
     "end_s":7.229,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.152,
     "end_s":7.252,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.175,
     "end_s":7.275,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.198,
     "end_s":7.298,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.221,
     "end_s":7.321,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.245,
     "end_s":7.345,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.268,
     "end_s":7.368,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.291,
     "end_s":7.391,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.314,
     "end_s":7.414,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.338,
     "end_s":7.438,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.361,
     "end_s":7.461,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.384,
     "end_s":7.484,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.407,
     "end_s":7.507,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.43,
     "end_s":7.53,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.454,
     "end_s":7.554,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.477,
     "end_s":7.577,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.5,
     "end_s":7.6,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.523,
     "end_s":7.623,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.546,
     "end_s":7.646,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.57,
     "end_s":7.67,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.593,
     "end_s":7.693,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.616,
     "end_s":7.716,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.639,
     "end_s":7.739,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.663,
     "end_s":7.763,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.686,
     "end_s":7.786,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.709,
     "end_s":7.809,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.732,
     "end_s":7.832,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.755,
     "end_s":7.855,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.779,
     "end_s":7.879,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.802,
     "end_s":7.902,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.825,
     "end_s":7.925,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.848,
     "end_s":7.948,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.872,
     "end_s":7.972,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.895,
     "end_s":7.995,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.918,
     "end_s":8.018,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.941,
     "end_s":8.041,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.964,
     "end_s":8.064,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":7.988,
     "end_s":8.088,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.011,
     "end_s":8.111,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.034,
     "end_s":8.134,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.057,
     "end_s":8.157,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.081,
     "end_s":8.181,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.104,
     "end_s":8.204,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.127,
     "end_s":8.227,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.15,
     "end_s":8.25,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.173,
     "end_s":8.273,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.197,
     "end_s":8.297,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.22,
     "end_s":8.32,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.243,
     "end_s":8.343,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.266,
     "end_s":8.366,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.29,
     "end_s":8.39,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.313,
     "end_s":8.413,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.336,
     "end_s":8.436,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.359,
     "end_s":8.459,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.382,
     "end_s":8.482,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.406,
     "end_s":8.506,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.429,
     "end_s":8.529,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.452,
     "end_s":8.552,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.475,
     "end_s":8.575,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.499,
     "end_s":8.599,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.522,
     "end_s":8.622,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.545,
     "end_s":8.645,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.568,
     "end_s":8.668,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.591,
     "end_s":8.691,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.615,
     "end_s":8.715,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.638,
     "end_s":8.738,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.661,
     "end_s":8.761,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.684,
     "end_s":8.784,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.707,
     "end_s":8.807,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.731,
     "end_s":8.831,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.754,
     "end_s":8.854,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.777,
     "end_s":8.877,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.8,
     "end_s":8.9,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.824,
     "end_s":8.924,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.847,
     "end_s":8.947,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.87,
     "end_s":8.97,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.893,
     "end_s":8.993,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.916,
     "end_s":9.016,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.94,
     "end_s":9.04,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.963,
     "end_s":9.063,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":8.986,
     "end_s":9.086,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.009,
     "end_s":9.109,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.033,
     "end_s":9.133,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.056,
     "end_s":9.156,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.079,
     "end_s":9.179,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.102,
     "end_s":9.202,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.125,
     "end_s":9.225,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.149,
     "end_s":9.249,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.172,
     "end_s":9.272,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.195,
     "end_s":9.295,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.218,
     "end_s":9.318,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.242,
     "end_s":9.342,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.265,
     "end_s":9.365,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.288,
     "end_s":9.388,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.311,
     "end_s":9.411,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.334,
     "end_s":9.434,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.358,
     "end_s":9.458,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.381,
     "end_s":9.481,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.404,
     "end_s":9.504,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.427,
     "end_s":9.527,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.451,
     "end_s":9.551,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.474,
     "end_s":9.574,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.497,
     "end_s":9.597,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.52,
     "end_s":9.62,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.543,
     "end_s":9.643,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.567,
     "end_s":9.667,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.59,
     "end_s":9.69,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.613,
     "end_s":9.713,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.636,
     "end_s":9.736,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.66,
     "end_s":9.76,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.683,
     "end_s":9.783,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.706,
     "end_s":9.806,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.729,
     "end_s":9.829,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.752,
     "end_s":9.852,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.776,
     "end_s":9.876,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.799,
     "end_s":9.899,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.822,
     "end_s":9.922,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.845,
     "end_s":9.945,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.868,
     "end_s":9.968,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.892,
     "end_s":9.992,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.915,
     "end_s":10.015,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.938,
     "end_s":10.038,
-    "midi_or_hz":220.0,
-    "confidence":0.95
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.961,
     "end_s":10.061,
-    "midi_or_hz":220.0,
-    "confidence":0.89
+    "midi_or_hz":440.0,
+    "confidence":0.98
   },
   {
     "start_s":9.985,
     "end_s":10.085,
-    "midi_or_hz":220.0,
-    "confidence":0.83
+    "midi_or_hz":440.0,
+    "confidence":0.95
   }
 ]
